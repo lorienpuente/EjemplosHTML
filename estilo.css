@@ -1,0 +1,9 @@
+#contenedor1 {
+    width: 80%;
+    background-color: aquamarine;
+    border: 1px;
+    border-radius: 10px;
+    text-align: justify;
+    margin: auto;
+    padding: auto;
+}
